@@ -1,0 +1,12 @@
+export const weatherStatus = {
+    SNOW: 'SNOW',
+    SLEET: 'SLEET',
+    HAIL: 'HAIL',
+    THUNDERSTORM: 'THUNDERSTORM',
+    HEAVY_RAIN: 'HEAVY_RAIN',
+    LIGHT_RAIN: 'LIGHT_RAIN',
+    SHOWERS: 'SHOWERS',
+    HEAVY_CLOUD: 'HEAVY_CLOUD',
+    LIGHT_CLOUD: 'LIGHT_CLOUD',
+    CLEAR: 'CLEAR',
+}

@@ -1,0 +1,15 @@
+.day-row {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 200px 100px 100px;
+    inline-size: 400px;
+    margin-bottom: 1em;
+}
+
+.weekday {
+    
+}
+
+.temps {
+
+}

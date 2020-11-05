@@ -1,0 +1,15 @@
+.current-weather {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 200px;
+    inline-size: 400px;
+    block-size: 15em;
+    justify-content: center;
+    align-content: center;
+}
+.margin-bottom {
+    margin-bottom: 1em;
+}
+.item {
+    text-align: center;
+}
